@@ -1,5 +1,3 @@
-# Challenge_1_Assignmnet-
-The submission of Excel Challenge 1
 # Kickstarting with Excel
 
 ## Overview of Project
